@@ -5,8 +5,10 @@ public class lab148 {
         int[] salaries = {7, 10, 4, 13, 25, 18, 9, 8, 17};
 
         // Initialize variables
-        int max = Integer.MIN_VALUE;
-        int secondMax = Integer.MIN_VALUE;
+      //  int max = Integer.MIN_VALUE;
+        int max = salaries[0];
+        int secondMax = salaries[0];
+      //  int secondMax = Integer.MIN_VALUE;
 
         for (int i = 0; i < salaries.length; i++) {
             // Update max and second max
