@@ -9,8 +9,8 @@ public class lab138 {
         System.out.println(marks_10_board.length);
         System.out.println(marks_10_board[3]); // 99
         System.out.println(marks_10_board[0]); // 90
-        System.out.println(marks_10_board[-1]); // ArrayIndexOutOfBoundsException
-//        System.out.println(marks_10_board[10]);
+        //System.out.println(marks_10_board[-1]); // ArrayIndexOutOfBoundsException
+        System.out.println(marks_10_board[10]);
 
     }
 }

@@ -14,8 +14,8 @@ public class lab137 {
 //        int[] marks_10_board = [90, 91, 95, 99, 100, 78]; - Not possible
         String shoppling_list[] = {"bread", "butter", "milk", "curd"};
 
-        // int[] marks_12_board = {95,96,94,91,"Pramod"};
-        char [] grades = {'A','B','C','D','E','F'};
+        // int[] marks_12_board = {95,96,94,91,"Pramod"}; Only same type of data can store
+        char [] grades = {'A','B','C','D','E','F'};//For char use ' ' quote.
         char [] grades_small = {'a','c','C','D','e','F', '#','@','%'};
         // camelCase = pramoddutta -> pramodDutta
         // greetme -> greetMe

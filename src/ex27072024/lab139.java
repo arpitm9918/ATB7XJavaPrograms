@@ -5,8 +5,8 @@ import java.util.Scanner;
 public class lab139 {
     public static void main(String[] args) {
         // Arrays -> new
-        Scanner sc = new Scanner(System.in);
-        int[] marks = new int[3];
+        Scanner sc = new Scanner(System.in);// use to take input from user
+        int[] marks = new int[3]; //default value is set 0
         // index - 0,1,2
         // len - 3
         System.out.println(marks[0]);
