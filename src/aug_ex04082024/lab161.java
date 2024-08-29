@@ -12,5 +12,8 @@ public class lab161 {
         //1. Default -- 70% use
         //2.Parameter -- 25%
         //3.copy constructor 1--5%
+        String a= "ar[it";
+        a="Mishra";
+
     }
 }

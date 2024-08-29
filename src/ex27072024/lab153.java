@@ -19,7 +19,7 @@ public class lab153 {
 
         //Thread Safety (Avoid in Automation untill it required)
 
-        // String builder -- not therad safe -- peoplr love it
+        // String builder -- not therad safe -- people love it
 
         // Key Diff b/w StringBuffwe and StringBuilder is :-
         //String Buffer Synchronized hota hai it mean each operation one by one kiya jayega
